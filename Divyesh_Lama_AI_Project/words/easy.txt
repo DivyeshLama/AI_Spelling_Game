@@ -1,5 +1,0 @@
-cat
-dog
-sun
-hat
-pen

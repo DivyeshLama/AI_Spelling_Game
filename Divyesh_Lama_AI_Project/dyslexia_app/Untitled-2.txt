@@ -1,7 +1,0 @@
-
-        self.listen_path = r"C:\Users\divye\Desktop\listen.png"
-        self.submit_path = r"C:\Users\divye\Desktop\submit.png"
-        self.icon_path = r"C:\Users\divye\Desktop\earth_planet_icon.ico"
-
-        self.correct_mp3 = "C:/Users/divye/Desktop/aiproj/correct-6033.mp3"
-        self.wrong_mp3 = r"C:\Users\divye\Desktop\aiproj\wronganswer-37702.mp3"
